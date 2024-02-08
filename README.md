@@ -81,4 +81,4 @@
 
 ## 😄 Connect with me 
 
-<a href="https://www.linkedin.com/in/sajalsantra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>  <a href="mailto:bmr.sajal2552@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+<a href="https://www.linkedin.com/in/sajalsantra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>  <a href="mailto:mr.sajal2552@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
