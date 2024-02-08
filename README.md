@@ -12,7 +12,7 @@
 
  <br>
  
- <!------------------------------------------------------------------------SKILLS-------------------------------------------------------------------------------->
+ <!------------------------------------------------------------------------SKILLS------------------------------------------------------------------------------------>
 ## ⚜ SKILLS
 <img src="https://img.shields.io/badge/Java-Expert-D00000.svg?style=plastic&logo=java&logoColor=white"></img>
 <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1.svg?style=plastic&logo=sql&logoColor=white"></img>
