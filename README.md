@@ -15,9 +15,11 @@
  <!------------------------------------------------------------------------SKILLS-------------------------------------------------------------------------------->
 ## 🥇 SKILLS
 <img src="https://img.shields.io/badge/Java-Expert-D00000.svg?style=plastic&logo=java&logoColor=white"></img>
-<img src="https://img.shields.io/badge/SQL-Intermediate-4479A1.svg?style=plastic&logo=sql&logoColor=white" />
-<img src="https://img.shields.io/badge/JDBC-Intermediate-007396.svg?style=plastic&logo=java&logoColor=white" />
-
+<img src="https://img.shields.io/badge/SQL-Intermediate-4479A1.svg?style=plastic&logo=sql&logoColor=white"></img>
+<img src="https://img.shields.io/badge/JDBC-Intermediate-FF5733.svg?style=plastic&logo=java&logoColor=white"></img>
+<img src="https://img.shields.io/badge/JSP_&_Servlet-Intermediate-007396.svg?style=plastic&logo=java&logoColor=white"></img>
+<img src="https://img.shields.io/badge/HTML_&_CSS-Intermediate-E34F26.svg?style=plastic&logoColor=white"></img>
+<img src="https://img.shields.io/badge/C-Intermediate-A8B9CC.svg?style=plastic&logoColor=white"></img>
 
 <br>
 
