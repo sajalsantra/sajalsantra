@@ -6,15 +6,17 @@
 - I'm a Java Full Stack Developer.
 - Actively looking for **Software Engineering Intern role (Backend)**.
 
+ 
  <br>
- <img src="https://komarev.com/ghpvc/?username=sajalsantra&color=blue" />
-
+<img src="https://komarev.com/ghpvc/?username=sajalsantra&color=blue" />
 
  <br>
-
+ 
  <!------------------------------------------------------------------------SKILLS-------------------------------------------------------------------------------->
 ## 🥇 SKILLS
 <img src="https://img.shields.io/badge/Java-Expert-D00000.svg?style=plastic&logo=java&logoColor=white"></img>
+<img src="https://img.shields.io/badge/SQL-Intermediate-4479A1.svg?style=plastic&logo=sql&logoColor=white" />
+<img src="https://img.shields.io/badge/JDBC-Intermediate-007396.svg?style=plastic&logo=java&logoColor=white" />
 
 
 <br>
