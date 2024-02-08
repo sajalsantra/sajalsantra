@@ -4,7 +4,7 @@
 - I’m  a 4th year undergraduate pursuing a Bachelor of Technology in Computer Science and Engineering.
 - I'm interested in Problem Solving.
 - I'm a Java Full Stack Developer.
-- Actively looking for **Software Engineering Intern role (Backend)**.
+- Actively looking for **Software Engineering Intern role**.
 
  
  <br>
