@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Java-Expert-D00000.svg?style=plastic&logo=java&logoColor=white"></img>
 <img src="https://img.shields.io/badge/SQL_(Oracle)-Intermediate-4479A1.svg?style=plastic&logo=oracle&logoColor=white"></img>
 <img src="https://img.shields.io/badge/PL/SQL-Intermediate-F80000.svg?style=plastic&logo=oracle&logoColor=white"></img>
-<img src="https://img.shields.io/badge/C%23-Intermediate-239120.svg?style=plastic&logo=csharp&logoColor=white"></img>
+<img src="https://img.shields.io/badge/C%23-Basic-239120.svg?style=plastic&logo=csharp&logoColor=white"></img>
 <img src="https://img.shields.io/badge/TypeScript-Intermediate-3178C6.svg?style=plastic&logo=typescript&logoColor=white"></img>
 <img src="https://img.shields.io/badge/C-Intermediate-A8B9CC.svg?style=plastic&logoColor=white"></img>
 <img src="https://img.shields.io/badge/HTML_&_CSS-Intermediate-E34F26.svg?style=plastic&logoColor=white"></img>
@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Hibernate-Intermediate-59666C.svg?style=plastic&logo=hibernate&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Angular-Intermediate-DD0031.svg?style=plastic&logo=angular&logoColor=white"></img>
 <img src="https://img.shields.io/badge/React-Intermediate-61DAFB.svg?style=plastic&logo=react&logoColor=black"></img>
-<img src="https://img.shields.io/badge/.NET_Framework-Intermediate-512BD4.svg?style=plastic&logo=dotnet&logoColor=white"></img>
+<img src="https://img.shields.io/badge/.NET_Framework-Basic-512BD4.svg?style=plastic&logo=dotnet&logoColor=white"></img>
 <img src="https://img.shields.io/badge/JSP_&_Servlet-Intermediate-007396.svg?style=plastic&logo=java&logoColor=white"></img>
 <img src="https://img.shields.io/badge/JDBC-Intermediate-FF5733.svg?style=plastic&logo=java&logoColor=white"></img>
 
@@ -67,7 +67,7 @@
 
 ## 🥇 ACHIEVEMENTS
 
-- 🟡 **LeetCode** — 759 problems solved (Easy: 278 · Medium: 422 · Hard: 59) · **Top 0.2% rank** · 76.3% acceptance
+- 🟡 **LeetCode** — 759 problems solved (Easy: 278 · Medium: 422 · Hard: 59) · **Top 0.8% rank** · 76.3% acceptance
 - 🟢 **HackerRank** — 4★ Problem Solving · 5★ Java · 3★ SQL
 - 🔵 **CodeChef** — 2★ · Max rating 1574
 - 📜 Software Engineer Intern Certificate — [**Link**](https://www.hackerrank.com/certificates/972fe92317d5)
