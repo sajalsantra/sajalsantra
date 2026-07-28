@@ -2,7 +2,7 @@
 <h1 align="left">Hello! I'm Sajal Santra 👋</h1>
 
 - 💼 Software Engineer @ **Tata Consultancy Services (TCS)**
-- 🔧 Building enterprise backend systems with **Java, Spring Boot, Oracle SQL & React**
+- 🔧 Building enterprise backend systems with **Java, Spring Boot, Oracle SQL & Angular**
 - 🤖 Using **Claude Code, GitHub Copilot & ChatGPT** daily to code faster and smarter
 - 🧠 DSA Enthusiast — **759+ problems on LeetCode (Top 0.2%, 76.3% acceptance)**
 - 🌱 Currently exploring **Kotlin** for mobile development
@@ -31,7 +31,6 @@
 <img src="https://img.shields.io/badge/Spring_MVC-Intermediate-6DB33F.svg?style=plastic&logo=spring&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Hibernate-Intermediate-59666C.svg?style=plastic&logo=hibernate&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Angular-Intermediate-DD0031.svg?style=plastic&logo=angular&logoColor=white"></img>
-<img src="https://img.shields.io/badge/React-Intermediate-61DAFB.svg?style=plastic&logo=react&logoColor=black"></img>
 <img src="https://img.shields.io/badge/.NET_Framework-Basic-512BD4.svg?style=plastic&logo=dotnet&logoColor=white"></img>
 <img src="https://img.shields.io/badge/JSP_&_Servlet-Intermediate-007396.svg?style=plastic&logo=java&logoColor=white"></img>
 <img src="https://img.shields.io/badge/JDBC-Intermediate-FF5733.svg?style=plastic&logo=java&logoColor=white"></img>
