@@ -18,11 +18,10 @@
 **Languages**
 
 <img src="https://img.shields.io/badge/Java-Expert-D00000.svg?style=plastic&logo=java&logoColor=white"></img>
-<img src="https://img.shields.io/badge/TypeScript-Intermediate-3178C6.svg?style=plastic&logo=typescript&logoColor=white"></img>
-<img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></img>
 <img src="https://img.shields.io/badge/SQL_(Oracle)-Intermediate-4479A1.svg?style=plastic&logo=oracle&logoColor=white"></img>
 <img src="https://img.shields.io/badge/PL/SQL-Intermediate-F80000.svg?style=plastic&logo=oracle&logoColor=white"></img>
 <img src="https://img.shields.io/badge/C%23-Intermediate-239120.svg?style=plastic&logo=csharp&logoColor=white"></img>
+<img src="https://img.shields.io/badge/TypeScript-Intermediate-3178C6.svg?style=plastic&logo=typescript&logoColor=white"></img>
 <img src="https://img.shields.io/badge/C-Intermediate-A8B9CC.svg?style=plastic&logoColor=white"></img>
 <img src="https://img.shields.io/badge/HTML_&_CSS-Intermediate-E34F26.svg?style=plastic&logoColor=white"></img>
 
