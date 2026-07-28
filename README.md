@@ -1,95 +1,87 @@
-<!--------------------------------------------------------------------------ABOUT-------------------------------------------------------------------------------->
-<h1 align="left">Hello! I'm Sajal Santra </h1> 
+<h1 align="center">Hi 👋, I'm Sajal Santra</h1>
+<h3 align="center">Software Engineer @ TCS | Java • Spring Boot • Oracle SQL • Angular | Problem Solver</h3>
 
-- I’m  a 4th year undergraduate pursuing a Bachelor of Technology in Computer Science and Engineering.
-- I'm interested in Problem Solving.
-- I'm a Java Full Stack Developer.
-- Actively looking for **Software Engineering Intern role**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/sajalsantra/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/SajalSantra/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://twitter.com/SajalSantra314">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
 
- 
- <br>
-<img src="https://komarev.com/ghpvc/?username=sajalsantra&color=blue" />
+---
 
- <br>
- 
- <!------------------------------------------------------------------------SKILLS------------------------------------------------------------------------------------>
-## ⚜ SKILLS
-<img src="https://img.shields.io/badge/Java-Expert-D00000.svg?style=plastic&logo=java&logoColor=white"></img>
-<img src="https://img.shields.io/badge/SQL-Intermediate-4479A1.svg?style=plastic&logo=sql&logoColor=white"></img>
-<img src="https://img.shields.io/badge/JDBC-Intermediate-FF5733.svg?style=plastic&logo=java&logoColor=white"></img>
-<img src="https://img.shields.io/badge/JSP_&_Servlet-Intermediate-007396.svg?style=plastic&logo=java&logoColor=white"></img>
-<img src="https://img.shields.io/badge/HTML_&_CSS-Intermediate-E34F26.svg?style=plastic&logoColor=white"></img>
-<img src="https://img.shields.io/badge/C-Intermediate-A8B9CC.svg?style=plastic&logoColor=white"></img>
+## 👨‍💻 About Me
 
-<br>
+- 💼 Software Engineer at **Tata Consultancy Services (TCS)**
+- 🌱 Learning **System Design, AI, Python, and Cloud**
+- 💻 Experienced in **Java, Spring Boot, Oracle SQL, PL/SQL, Angular, React**
+- 🚀 Passionate about building scalable software and solving challenging problems
+- 🧩 Solved **750+ problems on LeetCode**
+- 📫 Reach me at **your-email@example.com**
 
-<!------------------------------------------------------------------------EXPERIENCE-------------------------------------------------------------------------------->
+---
 
+## 🚀 Tech Stack
 
- 
- <!------------------------------------------------------------------------ACHIEVEMENTS----------------------------------------------------------------------------->
- 
-## 🥇 ACHIEVEMENTS
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PLSQL](https://img.shields.io/badge/PL/SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-- Software Engineer Intern Certificate. [**Link**](https://www.hackerrank.com/certificates/972fe92317d5)
-- Problem Solving (Intermediate) Certificate. [**Link**](https://www.hackerrank.com/certificates/301b8e8e5f54)
-- SQL (Intermediate) Certificate. [**Link**](https://www.hackerrank.com/certificates/e37f1bfc6bf9)
-- Solved 500+ problems on LeetCode and 300+ problems on GeeksForGeeks.
+### Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
- <br> 
- 
- <!-------------------------------------------------------------------------PROJECTS-------------------------------------------------------------------------------->
- 
-## ⭐ PROJECTS
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=flat-square&logo=oracle&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 
-<!-- ### 👩‍💻 MAJOR PROJECTS -->
+---
 
+## 📈 GitHub Stats
 
-### 👩‍💻 MINI PROJECTS
+![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
 
-|S.No.|Project Name|Technologies Used | GitHub Link |
-|--------|----|----|----|
-| 1| Quiz Application | Java | [link](https://github.com/sajalsantra/Quiz-Application)|
-| 2| Stone Paper Scissor Game | Java | [link](https://github.com/sajalsantra/Stone-Paper-Scissor-Game)|
-| 3| Guess The Number Game | Java | [link](https://github.com/sajalsantra/Guess-The-Number-Game)|
-| 4| Country-Guide | HTML CSS | [link](https://github.com/sajalsantra/Country-Guide)|
- <br>
- 
- <!----------------------------------------------------OPEN SOURCE CONTRIBUTIONS------------------------------------------------------------------------------->
- 
-<!-- ## 👩‍💻 OPEN SOURCE CONTRIBUTIONS -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
 
-<!--------------------------------------------------------------CONTRIBUTION STATS ------------------------------------------------------------------------------>
+---
 
+## 🏆 LeetCode
 
-## 📈 CONTRIBUTION STATS 
+- ✅ 750+ Problems Solved
+- 💪 Strong in Data Structures & Algorithms
 
+---
 
- <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=sajalsantra&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
- <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajalsantra&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
- <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajalsantra&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Beautiful Edit"/>
-</div>
+## 📌 Featured Projects
 
- <br>
+### 📄 eDelivery Platform
+Enterprise document delivery application built with Java, Spring Boot, Oracle SQL, and Angular.
 
+### 🏦 Bank Management System
+Role-based banking application using Java, JDBC, and SQL.
 
-<!--------------------------------------------------------------------CODING PROFILES---------------------------------------------------------------------------->
+### 🔒 WebGuard Analyzer
+Web security analysis tool for URL health, SSL validation, and vulnerability checks.
 
+---
 
-## 💻 CODING PROFILES
+## 🤝 Let's Connect
 
-<a href="https://leetcode.com/SajalSantra/"><img src="https://img.shields.io/badge/leetcode-D14836.svg?style=for-the-badge&logo=leetcode&logoColor=white"></img></a>
-<a href="https://auth.geeksforgeeks.org/user/sajalsantra/"><img src="https://img.shields.io/badge/geeksforgeeks-0F9D58.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></img></a>
-<a href="https://www.codechef.com/users/sajal114"><img src="https://img.shields.io/badge/codechef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white"></img></a>
-<a href="https://www.hackerrank.com/sajalsantra"><img src="https://img.shields.io/badge/hackerrank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"></img></a>
-<a href="https://www.codingninjas.com/studio/profile/SajalSantra"><img src="https://img.shields.io/badge/codingninjas-4E92B5.svg?style=for-the-badge&logo=codingninjas&logoColor=white"></img></a>
+- 💼 LinkedIn: https://www.linkedin.com/in/sajalsantra/
+- 💻 LeetCode: https://leetcode.com/SajalSantra/
+- 🐦 X: https://twitter.com/SajalSantra314
 
-<br>
-
-<!--------------------------------------------------------------------------Social Handles----------------------------------------------------------------------->
-
-## 😄 Connect with me 
-
-<a href="https://www.linkedin.com/in/sajalsantra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>  <a href="mailto:mr.sajal2552@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+⭐ Thanks for visiting my profile!
