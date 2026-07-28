@@ -4,7 +4,7 @@
 - 💼 Software Engineer @ **Tata Consultancy Services (TCS)**
 - 🔧 Building enterprise backend systems with **Java, Spring Boot, Oracle SQL & Angular**
 - 🤖 Using **Claude Code, GitHub Copilot & ChatGPT** daily to code faster and smarter
-- 🧠 DSA Enthusiast — **759+ problems on LeetCode (Top 0.2%, 76.3% acceptance)**
+- 🧠 DSA Enthusiast — **759+ problems on LeetCode (Top 0.8%, 76.3% acceptance)**
 - 🌱 Currently exploring **Kotlin** for mobile development
 
 <br>
