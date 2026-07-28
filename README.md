@@ -53,7 +53,7 @@
 
 | Project | Tech Stack | Period |
 |---|---|---|
-| EDEL – Pacific Life (Insurance Platform) | Java, Spring Boot, Angular, React, Oracle SQL, PL/SQL | Sept 2024 – Feb 2026 |
+| EDEL – Pacific Life (Insurance Platform) | Java, Spring Boot, Angular, Oracle SQL, PL/SQL | Sept 2024 – Feb 2026 |
 | Case Contact Management System | C#, .NET Framework, SQL Server | Feb 2026 – Present |
 
 - Built and integrated RESTful APIs in Java & Spring Boot; developed UI components in Angular & React
